@@ -1,0 +1,24 @@
+Kalkulator dietetyczny
+
+Opis:
+Projekt ma na celu wykonanie kalkulatora dietetycznego majacego za zadanie monitorowanie przez uzytkownika wartosci 
+odzywczych w spozywanych posilkach (tj ilosc bialka, weglowodanow, tluszczow oraz kalorycznosc posilkow). 
+Poza sprawdzaniem wartosci odzywczych w spozywanych przez uzytkownika posilkach program bedzie udostepnial mu 
+rowniez statystki okresowe wagi jak i kalorycznosci posilkow w wybranym przez uzytkownika okresie czasowym. 
+Wszystkie statystyki bedzie mogl dowolnie wydrukowac lub wyeksportowac do pliku. Zeby nie ograniczac programu 
+uzytkownik bedzie mial rowniez mozliwosc wprowadzenia wlasnych produktow poprzez graficzny interfejs aplikacji. 
+Graficzny interfejs aplikacji bedzie oparty o technologie WPF.
+
+Funkcjonalnosc:
+- lista produktow zapisana w bazie danych
+- mozliwosc dodawania produktow do bazy danych
+- mozliwosc kategoryzowania ulubionych produktow
+- zliczanie wartosci odzywczych/energetycznych w spozywanych posilkach
+- dodawanie posilkow do dziennej listy spozycia
+- mozliwosc zapisywania swoich wynikow na zalozonym profilu uzytkownika
+- profil zawiera informacje na temat wagi, wieku, aktywnosci fizycznej i wzrostu uzytkownika na podstawie ktorych wyliczane jest szacunkowe zapotrzebowanie dzienne
+- na podstawie wprowadzonych danych wyliczenie swojego BMI
+- wyliczanie bilansu spozycia okresowego (tydzien/miesiac/rok)
+- przerzucanie swoich wynikow na wykresy okresowe
+- mozliwosc wyeksportowania swojego bilansu spozywanych posilkow do pliku
+- mozliwosc wydruku bilansu spozywanych posilkow
